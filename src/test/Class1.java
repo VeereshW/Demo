@@ -8,6 +8,11 @@ public class Class1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("method1");
+		
+		System.out.println("method1");
+		System.out.println("method1");
+		System.out.println("method1");
+		System.out.println("method1");
 
 	}
 
